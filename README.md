@@ -1,3 +1,3 @@
 # Demo
 
-Go Leafs Go
+Go Leafs Go!
